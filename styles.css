@@ -1,0 +1,10 @@
+body {background:  aqua;
+	color: blue; 
+	font-size: 14pt;
+	
+	font-family: century gothic; } 
+li { display: inline-block;
+	border: 2px solid black;
+	background: orange;
+	padding: 10px;
+	margin: 10px;  }
